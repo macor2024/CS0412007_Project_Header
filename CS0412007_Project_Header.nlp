@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=CS0412007_Project_Header
+project.version=8.8
+project.original.version=8.8
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2023.2.0
+project.is-open-test-settings-after-upload=false
+project.id=fa468441-994f-4a35-9728-f1f4e113c267
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/macor2024/CS0412007_Project_Header
